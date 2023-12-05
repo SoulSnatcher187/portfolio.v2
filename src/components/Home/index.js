@@ -59,8 +59,7 @@ const Home = () => {
             />
           </h1>
           <h2>
-            Frontend Developer / JavaScript / React / Currently learning
-            Tailwind
+            Frontend Developer / JavaScript / React / TypeScript
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
