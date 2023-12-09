@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+For the full project I used free trial SVG plugin that u can look only if you open locally.
+This is the site without it :)
+https://candid-dieffenbachia-d53a1b.netlify.app/contact
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
